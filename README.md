@@ -11,4 +11,4 @@
 4. Go to http://localhost:8080/swagger-ui.html to see the documentation.
 
 
-5. Run the tests using commanf` `mvn install`.
+5. Run the tests using command `mvn install`.
